@@ -5,7 +5,8 @@
 
 <p> The folder includes Programs done in C++(initial 10) and later Python(remaining 23)</p>
 <p> This shift of Python is witnessed due the change of requirements for programming especially using the inbuilt libraries of Python for Graph Plotting</p>
-<p> The techniques used in the programming are listed below:</p>
+
+<p> The name, techniques and language used in the programming are listed below:</p>
 
 
 | Program No. | Name | Technique | Programming Language |
@@ -31,7 +32,7 @@
 | 19 | Fractional_Knapsack | Greedy Approach | Python |
 | 20 | Activity_Selection |  Greedy Approach | Python |
 | 21 | Single_Source_Shortest_Path |  Greedy Approach | Python |
-| 22 | Krushkal_MST |  Greedy Approach | Python |
+| 22 | Kruskal_MST |  Greedy Approach | Python |
 | 23 | Prims_MST |  Greedy Approach | Python |
 | 24 | Heap_Sort | Divide And Conquer | Python |
 | 25 | Assembly_Line_Scheduling | Dynamic Programming | Python |
