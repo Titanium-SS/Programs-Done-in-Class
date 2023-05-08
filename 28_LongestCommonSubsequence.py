@@ -31,8 +31,6 @@ def print_lcs(x, d, m, n):
 
 a = "AAYUSH"
 b = "AYESHA"
-# a = "SHAILENDRASINGH"
-# b = "ANUSHKASEHRAWAT"
 
 c, d = lcs_length(a, b, len(a), len(b))
 print("1st string is", a)
