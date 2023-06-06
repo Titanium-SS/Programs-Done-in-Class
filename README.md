@@ -36,7 +36,7 @@
 | 23 | Prims_MST |  Greedy Approach | Python |
 | 24 | Heap_Sort | Divide And Conquer | Python |
 | 25 | Assembly_Line_Scheduling | Dynamic Programming | Python |
-| 26 | Dynamic_Knapsack | Dynamic Programming | Python |
+| 26 | 0/1_Knapsack | Dynamic Programming | Python |
 | 27 | Matrix_Chain_Multiplication | Dynamic Programming | Python |
 | 28 | Longest_Common_Subsequence | Dynamic Programming | Python |
 | 29 | All_Pair_Shortest_Path | Dynamic Programming | Python |
